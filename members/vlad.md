@@ -16,5 +16,3 @@ Sport, Traveling, Reading
 [Git](https://github.com/VladyslavHornitskyi)
 
 ![hyf] (/student-bios/img/Vladyslav.jpeg)
-
-:
