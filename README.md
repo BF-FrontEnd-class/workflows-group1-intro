@@ -2,7 +2,6 @@
 
 # Introdaction: 👋
 
-
 Welcome to our group. We are team of five individuals from different culture who
 came together to collaborate on a project. In this project, you can find our
 team members information.
@@ -11,12 +10,12 @@ team members information.
 
 ### The members of our group are from different countries
 
-[Fernando](https://github.com/FernandoYsita) 🇲🇽 (team lead of the roject)
+[Fernando](./members/fernando.md) 🇲🇽 (team lead of the roject)
 
-[Preethi](https://github.com/preethimadhuri2289) 🇮🇳
+[Preethi](./members/preethi.md) 🇮🇳
 
-[Himanshi](https://github.com/BF-FrontEnd-class/workflows-group1-intro) 🇮🇳
+[Himanshi](./members/himanshi.md) 🇮🇳
 
-[Rahwa](https://github.com/Rahwakinfe) 🇪🇹
+[Rahwa](./members/rahwa.md) 🇪🇹
 
-[Vlad](https://github.com/VladyslavHornitskyi) 🇺🇦
+[Vlad](//members/vlad.md) 🇺🇦
