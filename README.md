@@ -18,4 +18,4 @@ team members information.
 
 [Rahwa](./members/rahwa.md) 🇪🇹
 
-[Vlad](//members/vlad.md) 🇺🇦
+[Vlad](/members/vlad.md) 🇺🇦
