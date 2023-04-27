@@ -15,4 +15,5 @@ Sport, Traveling, Reading
 📧 vladyslavhornitskyi@gmail.com ☎️ 0479-40-04-65
 [Git](https://github.com/VladyslavHornitskyi)
 
-![hyf] (/student-bios/img/Vladyslav.jpeg)
+![hyf]
+(/home/hyf/Desktop/hyf/home/workflow/project2/workflows-group1-intro/members/img/Vladyslav.jpeg)
