@@ -41,5 +41,4 @@ world. i have bachlors degree in marketing managment.
 
 > respecting each other helping each other making fun of each other
 
-##### well that is enough to know about me.
-
+##### well that is enough to know about me
